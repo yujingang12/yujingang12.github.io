@@ -1,0 +1,101 @@
+@font-face {
+    font-family: 'CookieRun-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/CookieRun-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'CookieRun-Regular';
+    background-image: url(https://i.pinimg.com/564x/63/0b/0a/630b0a951ea5f7d403806d778aea3aad.jpg);
+    background-size: auto;
+}
+
+article{
+    padding: 0%;
+    margin: 20px auto;
+    text-align: center;
+
+ 
+  
+    width: 200px auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    text-align: center;
+    padding: 50px;
+    margin: 20px auto;
+    width: 200px auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+img.Beni1 {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+img.Beni2 {
+    margin-bottom: 150px;
+}
+
+img.heartbreake {
+    margin-bottom: 300px;
+}
+
+
+div{
+    margin-left: auto;
+}
+
+select{
+    font-size: 1.5rem;
+    padding: 1em 1.5em;
+    background: plum;
+    align-items: center;
+    margin: center;
+
+}
+
+article.last{
+    margin-bottom: 200px;
+}
+
+ul, ol, li{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: hotpink;
+}
+
+h2 {
+    font-size: 35px;
+    color:limegreen;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+}
+
+footer, blockquote{
+    font-size: 20px;
+    text-align: center;
+}
+
